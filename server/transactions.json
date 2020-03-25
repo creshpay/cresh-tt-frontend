@@ -1,0 +1,111 @@
+[
+  {
+    "id": 5,
+    "amount": 40000,
+    "store_name": "Apple",
+    "split": 3,
+    "is_completed": true,
+    "instalments": [
+      {"date": "2019-12-21T09:08:58+0100", "amount": 13334, "is_paid": true },
+      {"date": "2020-01-21T22:00:00+0100", "amount": 13333, "is_paid": true },
+      {"date": "2020-02-21T22:00:00+0100", "amount": 13333, "is_paid": true }
+    ],
+    "created_date": "2019-12-21T09:08:58+0100"
+  },
+  {
+    "id": 1,
+    "amount": 34180,
+    "store_name": "Amazon",
+    "split": 4,
+    "is_completed": false,
+    "instalments": [
+      {"date": "2020-01-12T13:24:46+0100", "amount": 8545, "is_paid": true },
+      {"date": "2020-02-12T22:00:00+0100", "amount": 8545, "is_paid": true },
+      {"date": "2020-03-12T22:00:00+0100", "amount": 8545, "is_paid": true },
+      {"date": "2020-04-12T22:00:00+0100", "amount": 8545, "is_paid": false }
+    ],
+    "created_date": "2020-01-12T13:24:46+0100"
+  },
+  {
+    "id": 8,
+    "amount": 24000,
+    "store_name": "Zalando",
+    "split": 4,
+    "is_completed": false,
+    "instalments": [
+      {"date": "2019-12-30T13:48:23+0100", "amount": 6000, "is_paid": true },
+      {"date": "2020-01-30T22:00:00+0100", "amount": 6000, "is_paid": true },
+      {"date": "2020-02-30T22:00:00+0100", "amount": 6000, "is_paid": true },
+      {"date": "2020-03-30T22:00:00+0100", "amount": 6000, "is_paid": false }
+    ],
+    "created_date": "2019-12-30T13:48:23+0100"
+  },
+  {
+    "id": 3,
+    "amount": 20539,
+    "store_name": "Amazon",
+    "split": 3,
+    "is_completed": true,
+    "instalments": [
+      {"date": "2019-12-23T10:15:12+0100", "amount": 6847, "is_paid": true },
+      {"date": "2020-01-23T22:00:00+0100", "amount": 6846, "is_paid": true },
+      {"date": "2020-02-23T22:00:00+0100", "amount": 6846, "is_paid": true }
+    ],
+    "created_date": "2019-12-23T10:15:12+0100"
+  },
+  {
+    "id": 7,
+    "amount": 75400,
+    "store_name": "VeePee",
+    "split": 4,
+    "is_completed": false,
+    "instalments": [
+      {"date": "2020-03-11T19:56:10+0100", "amount": 18850, "is_paid": true },
+      {"date": "2020-04-11T22:00:00+0100", "amount": 18850, "is_paid": false },
+      {"date": "2020-05-11T22:00:00+0100", "amount": 18850, "is_paid": false },
+      {"date": "2020-06-11T22:00:00+0100", "amount": 18850, "is_paid": false }
+    ],
+    "created_date": "2020-03-11T19:56:10+0100"
+  },
+  {
+    "id": 6,
+    "amount": 87464,
+    "store_name": "Ikea",
+    "split": 4,
+    "is_completed": false,
+    "instalments": [
+      {"date": "2020-02-24T16:32:12+0100", "amount": 21866, "is_paid": true },
+      {"date": "2020-03-24T22:00:00+0100", "amount": 21866, "is_paid": false },
+      {"date": "2020-04-24T22:00:00+0100", "amount": 21866, "is_paid": false },
+      {"date": "2020-05-24T22:00:00+0100", "amount": 21866, "is_paid": false }
+    ],
+    "created_date": "2020-02-24T16:32:12+0100"
+  },
+  {
+    "id": 2,
+    "amount": 54000,
+    "store_name": "Amazon",
+    "split": 4,
+    "is_completed": false,
+    "instalments": [
+      {"date": "2020-02-10T13:41:34+0100", "amount": 13500, "is_paid": true },
+      {"date": "2020-03-10T22:00:00+0100", "amount": 13500, "is_paid": true },
+      {"date": "2020-04-10T22:00:00+0100", "amount": 13500, "is_paid": false },
+      {"date": "2020-05-10T22:00:00+0100", "amount": 13500, "is_paid": false }
+    ],
+    "created_date": "2020-02-10T13:41:34+0100"
+  },
+  {
+    "id": 4,
+    "amount": 34299,
+    "store_name": "Amazon",
+    "split": 3,
+    "is_completed": true,
+    "instalments": [
+      {"date": "2020-03-18T20:02:32+0100", "amount": 11433, "is_paid": true },
+      {"date": "2020-04-18T22:00:00+0100", "amount": 11433, "is_paid": false },
+      {"date": "2020-05-18T22:00:00+0100", "amount": 11433, "is_paid": false }
+    ],
+    "created_date": "2020-03-18T20:02:32+0100"
+  }
+]
