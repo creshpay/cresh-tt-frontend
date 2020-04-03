@@ -74,3 +74,6 @@ Here is simple instructions on how to setup your local server for the project :
 ## Deliverable
 
 Please **fork** this repository and make a PR once you're done.
+
+
+**Good luck and have fun !**
