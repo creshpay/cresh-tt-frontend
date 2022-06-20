@@ -1,6 +1,6 @@
 <p style="text-align: center; margin: 40px auto;"><img src="images/logo.png" width="150px" /></p>
 
-# Cresh Frontend Engineering Technical Tests - Javascript Flavor
+# Cresh Frontend Engineering Technical Tests - Typescript Flavor
 
 This is a little challenge to help us assess your skills as a developer.
 
@@ -19,20 +19,25 @@ To do so, we provide several apps, both B2B and B2C along with some APIs.
 
 To realize this test, you can choose one of the following framework you're the most confortable with.
 
-Setup your project either manually or with one of our project CLI recommendations
 - Angular [cli](https://cli.angular.io/)
 - React [reactApp](https://create-react-app.dev/docs/getting-started/)
 - VueJS [vuecli](https://cli.vuejs.org/)
 - ... or even Vanilla
 
-**/!\ JQuery is banned. Ever.**
+Setup your project either manually or with one of the framework recommendations.
 
-Of course, you are free to use any of the CSS naming convention/methodology, or any testing libraries other than the one provided by the CLI.
+**/!\ Do not use JQuery. Ever.**
 
 For this challenge we would like you to replicate a screen from our app.
 
 It displays 2 tabs, one for ongoing instalments and the other for payments history.
 At the top you have the total still due and the total spent, in that order.
+
+## Constraints
+
+- You must use Typescript as it is widely used across our code.
+- Though the screens are aimed to be displayed on a mobile screen, they should adapt on a variety of screen sizes to demonstrate your ability to handle responsive mode.
+- You are free to use any design you'd like, either from your own creation or using some existing template.
 
 ### Blueprints
 
@@ -62,17 +67,16 @@ Here is simple instructions on how to setup your local server for the project :
 - Code extensibility
 - Documentation
 - Respect of KISS and DRY principles
-- Use of git commits
+- Use of unit git commits
 
 ## Bonus points
 
 - UI/UX design
 - Writing unittests
 - CSS animations
-- Using Typescript
 
 ## Deliverable
 
-Please **clone** this repository and send us a zip or a link to your repo.
+Please **clone** (do not fork) this repository and send us a zip or a manual link to your repo.
 
 **Good luck and have fun !**
